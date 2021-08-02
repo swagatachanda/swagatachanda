@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋!! I am Swagata Chanda</h1>
 
 
-**swagatachanda/swagatachanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Backend Web Developer (enthusiastic leaner)
+- 🌱 I’m currently learning Web Developement
+- 👯 I’m looking to collaborate on Real Life Projects
+- 🤔 I’m looking for help with how to deal with covid period🥱
+- 💬 Ask me about Nodejs
+- 📫 How to reach me: [Email]swagata.chanda2000@gmail.com
+- 🍟 Fun fact: I am a foodie!!🤓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Github Stats 📃
+
+[![Swagata's github stats](https://github-readme-stats.vercel.app/api?username=swagatachanda&show_icons=true&line_height=21&show_icons=true&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatachanda&show_icons=true&layout=compact&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
