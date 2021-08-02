@@ -16,3 +16,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatachanda&show_icons=true&layout=compact&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h3 align="left">👨‍💻 Technologies I can work with:</h3>
+<div class="row">
+ <p align="center">
+    <br/>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <br/>
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
