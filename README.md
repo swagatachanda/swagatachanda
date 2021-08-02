@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋!! I am Swagata Chanda</h1>
 
 
-- 🔭 I’m currently working on Backend Web Developer (enthusiastic leaner)
+- 🔭 I’m currently working on Backend Web Developement (enthusiastic learner)
 - 🌱 I’m currently learning Web Developement
 - 👯 I’m looking to collaborate on Real Life Projects
 - 🤔 I’m looking for help with how to deal with covid period🥱
