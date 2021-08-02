@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Web Developement
 - 👯 I’m looking to collaborate on Real Life Projects
 - 🤔 I’m looking for help with how to deal with covid period🥱
-- 💬 Ask me about Nodejs
 - 📫 How to reach me: [Email]swagata.chanda2000@gmail.com
 - 🍟 Fun fact: I am a foodie!!🤓
 
