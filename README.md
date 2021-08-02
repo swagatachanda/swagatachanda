@@ -17,7 +17,7 @@
 
 
 
-<h3 align="left">👨‍💻 Technologies I can work with:</h3>
+<h3 align="left">👨‍💻 Technologies I am comfortable in:</h3>
 <div class="row">
  <p align="center">
     <br/>
