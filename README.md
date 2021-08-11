@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋!! I am Swagata Chanda</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/avimishra18/avimishra18/master/assets/wave.gif" width="30px">!! I am Swagata Chanda</h1>
 
 
 - 🔭 I’m currently working on Backend Web Developement (enthusiastic learner)
