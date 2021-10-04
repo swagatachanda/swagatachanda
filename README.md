@@ -32,6 +32,6 @@
     <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C logo" width="40" height="40" align="center"/>
     <img src="https://app.codingrooms.com/assets/ide/cplusplus-original.svg" alt="C++ Logo" width="40" height="40" align="center"/>
     <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" alt="Heroku Logo" width="40" height="40" align="center"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="40" height="40" align="center"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="70" height="40" align="center"/>
   
     
