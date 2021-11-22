@@ -35,7 +35,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="60" height="40" align="center"/>
     <img src="https://app.codingrooms.com/assets/ide/cplusplus-original.svg" alt="C++ Logo" width="40" height="40" align="center"/>
   
- <h3 align="center">![](https://komarev.com/ghpvc/?username=swagatachanda&color=orange)>/h3>
+ <h3 align="center">![](https://komarev.com/ghpvc/?username=swagatachanda&color=orange)
+</h3>
 
   
     
